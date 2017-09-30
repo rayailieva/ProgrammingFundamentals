@@ -1,2 +1,4 @@
 # ProgrammingFundamentalsCsharp
-SoftUni ProgrammingFundamentals Course September 2017 on Csharp
+
+Software University
+Programming Fundamentals Course C# - September 2017.
