@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\ProgrammingFundamentalsDataTypesandVariables\TriplesOfLatinNumbers\bin\Debug\TriplesOfLatinNumbers.exe.config
+C:\Users\raya\source\repos\ProgrammingFundamentalsDataTypesandVariables\TriplesOfLatinNumbers\bin\Debug\TriplesOfLatinNumbers.exe
+C:\Users\raya\source\repos\ProgrammingFundamentalsDataTypesandVariables\TriplesOfLatinNumbers\bin\Debug\TriplesOfLatinNumbers.pdb
+C:\Users\raya\source\repos\ProgrammingFundamentalsDataTypesandVariables\TriplesOfLatinNumbers\obj\Debug\TriplesOfLatinNumbers.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\ProgrammingFundamentalsDataTypesandVariables\TriplesOfLatinNumbers\obj\Debug\TriplesOfLatinNumbers.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\ProgrammingFundamentalsDataTypesandVariables\TriplesOfLatinNumbers\obj\Debug\TriplesOfLatinNumbers.exe
+C:\Users\raya\source\repos\ProgrammingFundamentalsDataTypesandVariables\TriplesOfLatinNumbers\obj\Debug\TriplesOfLatinNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\CSharpIntro\NumSum\bin\Debug\NumSum.exe.config
+C:\Users\raya\source\repos\CSharpIntro\NumSum\bin\Debug\NumSum.exe
+C:\Users\raya\source\repos\CSharpIntro\NumSum\bin\Debug\NumSum.pdb
+C:\Users\raya\source\repos\CSharpIntro\NumSum\obj\Debug\NumSum.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\CSharpIntro\NumSum\obj\Debug\NumSum.exe
+C:\Users\raya\source\repos\CSharpIntro\NumSum\obj\Debug\NumSum.pdb

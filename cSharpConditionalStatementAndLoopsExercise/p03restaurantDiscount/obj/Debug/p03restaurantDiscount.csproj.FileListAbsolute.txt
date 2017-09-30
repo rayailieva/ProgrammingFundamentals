@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p03restaurantDiscount\bin\Debug\p03restaurantDiscount.exe.config
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p03restaurantDiscount\bin\Debug\p03restaurantDiscount.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p03restaurantDiscount\bin\Debug\p03restaurantDiscount.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p03restaurantDiscount\obj\Debug\p03restaurantDiscount.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p03restaurantDiscount\obj\Debug\p03restaurantDiscount.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p03restaurantDiscount\obj\Debug\p03restaurantDiscount.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p03restaurantDiscount\obj\Debug\p03restaurantDiscount.pdb

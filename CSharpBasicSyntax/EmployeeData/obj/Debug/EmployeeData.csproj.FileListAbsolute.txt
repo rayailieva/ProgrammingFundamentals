@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\CSharpIntro\EmployeeData\obj\Debug\EmployeeData.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\CSharpIntro\EmployeeData\bin\Debug\EmployeeData.exe.config
+C:\Users\raya\source\repos\CSharpIntro\EmployeeData\bin\Debug\EmployeeData.exe
+C:\Users\raya\source\repos\CSharpIntro\EmployeeData\bin\Debug\EmployeeData.pdb
+C:\Users\raya\source\repos\CSharpIntro\EmployeeData\obj\Debug\EmployeeData.exe
+C:\Users\raya\source\repos\CSharpIntro\EmployeeData\obj\Debug\EmployeeData.pdb

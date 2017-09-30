@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CenturiesToMinutes", "CenturiesToMinutes\CenturiesToMinutes.csproj", "{86B8EEE0-55B6-4D2B-AC33-E26E4BB7ED68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CircleArea", "CircleArea\CircleArea.csproj", "{331E609B-8939-438F-ADC8-09927E5007CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExactSumOfRealNumbers", "ExactSumOfRealNumbers\ExactSumOfRealNumbers.csproj", "{77A8A30E-C018-4132-95F4-2AD777612B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Elevator", "Elevator\Elevator.csproj", "{7D23E175-015D-42BC-9C0F-ADC9D3A109B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialNumbers", "SpecialNumbers\SpecialNumbers.csproj", "{9B204E9F-DF13-436D-B92B-7BE00DE061AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriplesOfLatinNumbers", "TriplesOfLatinNumbers\TriplesOfLatinNumbers.csproj", "{DD1490AA-94C3-42F0-A33A-3D6805CE6793}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86B8EEE0-55B6-4D2B-AC33-E26E4BB7ED68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B8EEE0-55B6-4D2B-AC33-E26E4BB7ED68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B8EEE0-55B6-4D2B-AC33-E26E4BB7ED68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B8EEE0-55B6-4D2B-AC33-E26E4BB7ED68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{331E609B-8939-438F-ADC8-09927E5007CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{331E609B-8939-438F-ADC8-09927E5007CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{331E609B-8939-438F-ADC8-09927E5007CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{331E609B-8939-438F-ADC8-09927E5007CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A8A30E-C018-4132-95F4-2AD777612B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A8A30E-C018-4132-95F4-2AD777612B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A8A30E-C018-4132-95F4-2AD777612B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A8A30E-C018-4132-95F4-2AD777612B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D23E175-015D-42BC-9C0F-ADC9D3A109B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D23E175-015D-42BC-9C0F-ADC9D3A109B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D23E175-015D-42BC-9C0F-ADC9D3A109B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D23E175-015D-42BC-9C0F-ADC9D3A109B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B204E9F-DF13-436D-B92B-7BE00DE061AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B204E9F-DF13-436D-B92B-7BE00DE061AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B204E9F-DF13-436D-B92B-7BE00DE061AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B204E9F-DF13-436D-B92B-7BE00DE061AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD1490AA-94C3-42F0-A33A-3D6805CE6793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD1490AA-94C3-42F0-A33A-3D6805CE6793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD1490AA-94C3-42F0-A33A-3D6805CE6793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD1490AA-94C3-42F0-A33A-3D6805CE6793}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {774F11C1-7CD8-46DF-A24F-10602B67BE75}
+	EndGlobalSection
+EndGlobal

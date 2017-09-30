@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\CsharpBasicsSyntaxExercises\problem2\bin\Debug\problem2.exe.config
+C:\Users\raya\source\repos\CsharpBasicsSyntaxExercises\problem2\bin\Debug\problem2.exe
+C:\Users\raya\source\repos\CsharpBasicsSyntaxExercises\problem2\bin\Debug\problem2.pdb
+C:\Users\raya\source\repos\CsharpBasicsSyntaxExercises\problem2\obj\Debug\problem2.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\CsharpBasicsSyntaxExercises\problem2\obj\Debug\problem2.exe
+C:\Users\raya\source\repos\CsharpBasicsSyntaxExercises\problem2\obj\Debug\problem2.pdb

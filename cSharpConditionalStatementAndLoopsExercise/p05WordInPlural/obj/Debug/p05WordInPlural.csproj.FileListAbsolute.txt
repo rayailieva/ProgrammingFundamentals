@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p05WordInPlural\bin\Debug\p05WordInPlural.exe.config
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p05WordInPlural\bin\Debug\p05WordInPlural.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p05WordInPlural\bin\Debug\p05WordInPlural.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p05WordInPlural\obj\Debug\p05WordInPlural.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p05WordInPlural\obj\Debug\p05WordInPlural.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p05WordInPlural\obj\Debug\p05WordInPlural.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p05WordInPlural\obj\Debug\p05WordInPlural.pdb

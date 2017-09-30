@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p15NeighbourWars\bin\Debug\p15NeighbourWars.exe.config
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p15NeighbourWars\bin\Debug\p15NeighbourWars.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p15NeighbourWars\bin\Debug\p15NeighbourWars.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p15NeighbourWars\obj\Debug\p15NeighbourWars.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p15NeighbourWars\obj\Debug\p15NeighbourWars.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p15NeighbourWars\obj\Debug\p15NeighbourWars.pdb

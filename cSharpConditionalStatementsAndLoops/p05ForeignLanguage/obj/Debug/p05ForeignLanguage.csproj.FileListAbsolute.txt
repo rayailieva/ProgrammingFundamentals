@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p05ForeignLanguage\bin\Debug\p05ForeignLanguage.exe.config
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p05ForeignLanguage\bin\Debug\p05ForeignLanguage.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p05ForeignLanguage\bin\Debug\p05ForeignLanguage.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p05ForeignLanguage\obj\Debug\p05ForeignLanguage.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p05ForeignLanguage\obj\Debug\p05ForeignLanguage.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p05ForeignLanguage\obj\Debug\p05ForeignLanguage.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p05ForeignLanguage\obj\Debug\p05ForeignLanguage.csprojResolveAssemblyReference.cache

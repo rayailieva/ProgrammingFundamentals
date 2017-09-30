@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\CSharpIntro\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\raya\source\repos\CSharpIntro\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\raya\source\repos\CSharpIntro\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\raya\source\repos\CSharpIntro\HelloWorld\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\CSharpIntro\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\CSharpIntro\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\raya\source\repos\CSharpIntro\HelloWorld\obj\Debug\HelloWorld.pdb

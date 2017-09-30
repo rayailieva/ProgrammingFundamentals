@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p04MonthPrinter\bin\Debug\p04MonthPrinter.exe.config
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p04MonthPrinter\bin\Debug\p04MonthPrinter.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p04MonthPrinter\bin\Debug\p04MonthPrinter.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p04MonthPrinter\obj\Debug\p04MonthPrinter.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p04MonthPrinter\obj\Debug\p04MonthPrinter.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p04MonthPrinter\obj\Debug\p04MonthPrinter.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p04MonthPrinter\obj\Debug\p04MonthPrinter.csprojResolveAssemblyReference.cache

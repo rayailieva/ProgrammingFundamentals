@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\CsharpBasicsSyntaxExercises\problem1\bin\Debug\problem1.exe.config
+C:\Users\raya\source\repos\CsharpBasicsSyntaxExercises\problem1\bin\Debug\problem1.exe
+C:\Users\raya\source\repos\CsharpBasicsSyntaxExercises\problem1\bin\Debug\problem1.pdb
+C:\Users\raya\source\repos\CsharpBasicsSyntaxExercises\problem1\obj\Debug\problem1.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\CsharpBasicsSyntaxExercises\problem1\obj\Debug\problem1.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\CsharpBasicsSyntaxExercises\problem1\obj\Debug\problem1.exe
+C:\Users\raya\source\repos\CsharpBasicsSyntaxExercises\problem1\obj\Debug\problem1.pdb

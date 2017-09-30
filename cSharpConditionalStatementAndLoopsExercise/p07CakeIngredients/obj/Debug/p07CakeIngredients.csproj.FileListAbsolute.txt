@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p07CakeIngredients\bin\Debug\p07CakeIngredients.exe.config
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p07CakeIngredients\bin\Debug\p07CakeIngredients.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p07CakeIngredients\bin\Debug\p07CakeIngredients.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p07CakeIngredients\obj\Debug\p07CakeIngredients.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p07CakeIngredients\obj\Debug\p07CakeIngredients.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p07CakeIngredients\obj\Debug\p07CakeIngredients.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p07CakeIngredients\obj\Debug\p07CakeIngredients.csprojResolveAssemblyReference.cache

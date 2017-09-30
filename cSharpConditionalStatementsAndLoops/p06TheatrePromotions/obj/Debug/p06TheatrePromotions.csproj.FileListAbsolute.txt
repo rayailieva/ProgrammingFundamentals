@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p06TheatrePromotions\bin\Debug\p06TheatrePromotions.exe.config
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p06TheatrePromotions\bin\Debug\p06TheatrePromotions.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p06TheatrePromotions\bin\Debug\p06TheatrePromotions.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p06TheatrePromotions\obj\Debug\p06TheatrePromotions.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p06TheatrePromotions\obj\Debug\p06TheatrePromotions.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p06TheatrePromotions\obj\Debug\p06TheatrePromotions.pdb

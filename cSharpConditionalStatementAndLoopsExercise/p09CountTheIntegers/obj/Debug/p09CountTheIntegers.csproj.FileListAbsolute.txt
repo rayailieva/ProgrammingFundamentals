@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p09CountTheIntegers\bin\Debug\p09CountTheIntegers.exe.config
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p09CountTheIntegers\bin\Debug\p09CountTheIntegers.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p09CountTheIntegers\bin\Debug\p09CountTheIntegers.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p09CountTheIntegers\obj\Debug\p09CountTheIntegers.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p09CountTheIntegers\obj\Debug\p09CountTheIntegers.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p09CountTheIntegers\obj\Debug\p09CountTheIntegers.pdb

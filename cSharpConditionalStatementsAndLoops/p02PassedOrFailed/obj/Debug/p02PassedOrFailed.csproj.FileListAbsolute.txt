@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p02PassedOrFailed\bin\Debug\p02PassedOrFailed.exe.config
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p02PassedOrFailed\bin\Debug\p02PassedOrFailed.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p02PassedOrFailed\bin\Debug\p02PassedOrFailed.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p02PassedOrFailed\obj\Debug\p02PassedOrFailed.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p02PassedOrFailed\obj\Debug\p02PassedOrFailed.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p02PassedOrFailed\obj\Debug\p02PassedOrFailed.pdb

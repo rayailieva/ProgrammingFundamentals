@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p13GameOfNumbers\bin\Debug\p13GameOfNumbers.exe.config
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p13GameOfNumbers\bin\Debug\p13GameOfNumbers.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p13GameOfNumbers\bin\Debug\p13GameOfNumbers.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p13GameOfNumbers\obj\Debug\p13GameOfNumbers.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p13GameOfNumbers\obj\Debug\p13GameOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p13GameOfNumbers\obj\Debug\p13GameOfNumbers.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p13GameOfNumbers\obj\Debug\p13GameOfNumbers.pdb

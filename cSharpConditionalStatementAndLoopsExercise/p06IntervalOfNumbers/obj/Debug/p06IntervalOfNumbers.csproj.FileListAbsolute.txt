@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p06IntervalOfNumbers\bin\Debug\p06IntervalOfNumbers.exe.config
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p06IntervalOfNumbers\bin\Debug\p06IntervalOfNumbers.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p06IntervalOfNumbers\bin\Debug\p06IntervalOfNumbers.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p06IntervalOfNumbers\obj\Debug\p06IntervalOfNumbers.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p06IntervalOfNumbers\obj\Debug\p06IntervalOfNumbers.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p06IntervalOfNumbers\obj\Debug\p06IntervalOfNumbers.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p06IntervalOfNumbers\obj\Debug\p06IntervalOfNumbers.csprojResolveAssemblyReference.cache

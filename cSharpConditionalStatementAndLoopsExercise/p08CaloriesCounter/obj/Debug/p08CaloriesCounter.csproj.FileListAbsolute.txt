@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p08CaloriesCounter\bin\Debug\p08CaloriesCounter.exe.config
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p08CaloriesCounter\bin\Debug\p08CaloriesCounter.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p08CaloriesCounter\bin\Debug\p08CaloriesCounter.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p08CaloriesCounter\obj\Debug\p08CaloriesCounter.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p08CaloriesCounter\obj\Debug\p08CaloriesCounter.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p08CaloriesCounter\obj\Debug\p08CaloriesCounter.pdb

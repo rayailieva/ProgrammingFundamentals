@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\MaxFinder\MaxFinder\bin\Debug\MaxFinder.exe.config
+C:\Users\raya\source\repos\MaxFinder\MaxFinder\bin\Debug\MaxFinder.exe
+C:\Users\raya\source\repos\MaxFinder\MaxFinder\bin\Debug\MaxFinder.pdb
+C:\Users\raya\source\repos\MaxFinder\MaxFinder\obj\Debug\MaxFinder.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\MaxFinder\MaxFinder\obj\Debug\MaxFinder.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\MaxFinder\MaxFinder\obj\Debug\MaxFinder.exe
+C:\Users\raya\source\repos\MaxFinder\MaxFinder\obj\Debug\MaxFinder.pdb

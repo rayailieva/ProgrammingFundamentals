@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p04Hotel\bin\Debug\p04Hotel.exe.config
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p04Hotel\bin\Debug\p04Hotel.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p04Hotel\bin\Debug\p04Hotel.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p04Hotel\obj\Debug\p04Hotel.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p04Hotel\obj\Debug\p04Hotel.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p04Hotel\obj\Debug\p04Hotel.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p04Hotel\obj\Debug\p04Hotel.pdb

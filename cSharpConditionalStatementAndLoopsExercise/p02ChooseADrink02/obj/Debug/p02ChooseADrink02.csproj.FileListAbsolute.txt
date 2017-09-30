@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p02ChooseADrink02\bin\Debug\p02ChooseADrink02.exe.config
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p02ChooseADrink02\bin\Debug\p02ChooseADrink02.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p02ChooseADrink02\bin\Debug\p02ChooseADrink02.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p02ChooseADrink02\obj\Debug\p02ChooseADrink02.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p02ChooseADrink02\obj\Debug\p02ChooseADrink02.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p02ChooseADrink02\obj\Debug\p02ChooseADrink02.pdb

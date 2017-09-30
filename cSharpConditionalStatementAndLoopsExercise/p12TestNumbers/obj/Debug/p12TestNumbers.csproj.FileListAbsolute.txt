@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p12TestNumbers\bin\Debug\p12TestNumbers.exe.config
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p12TestNumbers\bin\Debug\p12TestNumbers.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p12TestNumbers\bin\Debug\p12TestNumbers.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p12TestNumbers\obj\Debug\p12TestNumbers.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p12TestNumbers\obj\Debug\p12TestNumbers.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p12TestNumbers\obj\Debug\p12TestNumbers.pdb

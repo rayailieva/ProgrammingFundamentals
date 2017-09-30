@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p03BackIn30Minutes\bin\Debug\p03BackIn30Minutes.exe.config
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p03BackIn30Minutes\bin\Debug\p03BackIn30Minutes.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p03BackIn30Minutes\bin\Debug\p03BackIn30Minutes.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p03BackIn30Minutes\obj\Debug\p03BackIn30Minutes.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p03BackIn30Minutes\obj\Debug\p03BackIn30Minutes.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p03BackIn30Minutes\obj\Debug\p03BackIn30Minutes.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementsAndLoops\p03BackIn30Minutes\obj\Debug\p03BackIn30Minutes.pdb

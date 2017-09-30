@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\ProgrammingFundamentalsDataTypesandVariables\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe.config
+C:\Users\raya\source\repos\ProgrammingFundamentalsDataTypesandVariables\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe
+C:\Users\raya\source\repos\ProgrammingFundamentalsDataTypesandVariables\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.pdb
+C:\Users\raya\source\repos\ProgrammingFundamentalsDataTypesandVariables\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\ProgrammingFundamentalsDataTypesandVariables\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\ProgrammingFundamentalsDataTypesandVariables\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.exe
+C:\Users\raya\source\repos\ProgrammingFundamentalsDataTypesandVariables\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p14MagicLetter\bin\Debug\p14MagicLetter.exe.config
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p14MagicLetter\bin\Debug\p14MagicLetter.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p14MagicLetter\bin\Debug\p14MagicLetter.pdb
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p14MagicLetter\obj\Debug\p14MagicLetter.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p14MagicLetter\obj\Debug\p14MagicLetter.exe
+C:\Users\raya\source\repos\cSharpConditionalStatementAndLoopsExercise\p14MagicLetter\obj\Debug\p14MagicLetter.pdb
