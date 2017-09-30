@@ -1,4 +1,4 @@
-# ProgrammingFundamentalsCsharp
+# ProgrammingFundamentalsC#
 
 Software University
-Programming Fundamentals Course C# - September 2017.
+Programming Fundamentals C# - September 2017.
