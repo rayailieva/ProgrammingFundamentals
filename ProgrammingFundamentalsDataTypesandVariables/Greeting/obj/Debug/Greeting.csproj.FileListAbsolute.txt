@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\ProgrammingFundamentalsDataTypesandVariables\Greeting\bin\Debug\Greeting.exe.config
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\ProgrammingFundamentalsDataTypesandVariables\Greeting\bin\Debug\Greeting.exe
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\ProgrammingFundamentalsDataTypesandVariables\Greeting\bin\Debug\Greeting.pdb
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\ProgrammingFundamentalsDataTypesandVariables\Greeting\obj\Debug\Greeting.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\ProgrammingFundamentalsDataTypesandVariables\Greeting\obj\Debug\Greeting.exe
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\ProgrammingFundamentalsDataTypesandVariables\Greeting\obj\Debug\Greeting.pdb

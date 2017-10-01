@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpecialNumbers", "SpecialNu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TriplesOfLatinNumbers", "TriplesOfLatinNumbers\TriplesOfLatinNumbers.csproj", "{DD1490AA-94C3-42F0-A33A-3D6805CE6793}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greeting", "Greeting\Greeting.csproj", "{D7465637-C1D5-40B8-80F5-4552CA2DEECA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefactorVolumeOfPyramid", "RefactorVolumeOfPyramid\RefactorVolumeOfPyramid.csproj", "{D65387DF-F0B6-45EE-9B44-B3508B084FB6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +49,14 @@ Global
 		{DD1490AA-94C3-42F0-A33A-3D6805CE6793}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD1490AA-94C3-42F0-A33A-3D6805CE6793}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD1490AA-94C3-42F0-A33A-3D6805CE6793}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7465637-C1D5-40B8-80F5-4552CA2DEECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7465637-C1D5-40B8-80F5-4552CA2DEECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7465637-C1D5-40B8-80F5-4552CA2DEECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7465637-C1D5-40B8-80F5-4552CA2DEECA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D65387DF-F0B6-45EE-9B44-B3508B084FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D65387DF-F0B6-45EE-9B44-B3508B084FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D65387DF-F0B6-45EE-9B44-B3508B084FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D65387DF-F0B6-45EE-9B44-B3508B084FB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
