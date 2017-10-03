@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p07ExchangeVariableValues\bin\Debug\p07ExchangeVariableValues.exe.config
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p07ExchangeVariableValues\bin\Debug\p07ExchangeVariableValues.exe
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p07ExchangeVariableValues\bin\Debug\p07ExchangeVariableValues.pdb
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p07ExchangeVariableValues\obj\Debug\p07ExchangeVariableValues.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p07ExchangeVariableValues\obj\Debug\p07ExchangeVariableValues.exe
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p07ExchangeVariableValues\obj\Debug\p07ExchangeVariableValues.pdb

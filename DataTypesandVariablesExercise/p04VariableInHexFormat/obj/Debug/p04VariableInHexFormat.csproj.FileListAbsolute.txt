@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p04VariableInHexFormat\bin\Debug\p04VariableInHexFormat.exe.config
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p04VariableInHexFormat\bin\Debug\p04VariableInHexFormat.exe
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p04VariableInHexFormat\bin\Debug\p04VariableInHexFormat.pdb
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p04VariableInHexFormat\obj\Debug\p04VariableInHexFormat.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p04VariableInHexFormat\obj\Debug\p04VariableInHexFormat.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p04VariableInHexFormat\obj\Debug\p04VariableInHexFormat.exe
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p04VariableInHexFormat\obj\Debug\p04VariableInHexFormat.pdb

@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p08EmployeeData\bin\Debug\p08EmployeeData.exe.config
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p08EmployeeData\bin\Debug\p08EmployeeData.exe
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p08EmployeeData\bin\Debug\p08EmployeeData.pdb
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p08EmployeeData\obj\Debug\p08EmployeeData.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p08EmployeeData\obj\Debug\p08EmployeeData.exe
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p08EmployeeData\obj\Debug\p08EmployeeData.pdb

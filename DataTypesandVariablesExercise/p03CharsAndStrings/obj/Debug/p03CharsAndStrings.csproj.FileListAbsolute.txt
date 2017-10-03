@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p03CharsAndStrings\bin\Debug\p03CharsAndStrings.exe.config
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p03CharsAndStrings\bin\Debug\p03CharsAndStrings.exe
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p03CharsAndStrings\bin\Debug\p03CharsAndStrings.pdb
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p03CharsAndStrings\obj\Debug\p03CharsAndStrings.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p03CharsAndStrings\obj\Debug\p03CharsAndStrings.exe
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p03CharsAndStrings\obj\Debug\p03CharsAndStrings.pdb

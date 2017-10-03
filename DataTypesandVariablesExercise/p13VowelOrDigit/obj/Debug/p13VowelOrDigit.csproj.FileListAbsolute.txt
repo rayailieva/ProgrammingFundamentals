@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p13VowelOrDigit\bin\Debug\p13VowelOrDigit.exe.config
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p13VowelOrDigit\bin\Debug\p13VowelOrDigit.exe
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p13VowelOrDigit\bin\Debug\p13VowelOrDigit.pdb
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p13VowelOrDigit\obj\Debug\p13VowelOrDigit.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p13VowelOrDigit\obj\Debug\p13VowelOrDigit.exe
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p13VowelOrDigit\obj\Debug\p13VowelOrDigit.pdb

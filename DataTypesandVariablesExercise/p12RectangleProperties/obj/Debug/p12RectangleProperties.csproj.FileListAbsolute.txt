@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p12RectangleProperties\bin\Debug\p12RectangleProperties.exe.config
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p12RectangleProperties\bin\Debug\p12RectangleProperties.exe
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p12RectangleProperties\bin\Debug\p12RectangleProperties.pdb
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p12RectangleProperties\obj\Debug\p12RectangleProperties.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p12RectangleProperties\obj\Debug\p12RectangleProperties.exe
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p12RectangleProperties\obj\Debug\p12RectangleProperties.pdb

@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p02FloatingPointNumbers\bin\Debug\p02FloatingPointNumbers.exe.config
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p02FloatingPointNumbers\bin\Debug\p02FloatingPointNumbers.exe
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p02FloatingPointNumbers\bin\Debug\p02FloatingPointNumbers.pdb
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p02FloatingPointNumbers\obj\Debug\p02FloatingPointNumbers.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p02FloatingPointNumbers\obj\Debug\p02FloatingPointNumbers.exe
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p02FloatingPointNumbers\obj\Debug\p02FloatingPointNumbers.pdb

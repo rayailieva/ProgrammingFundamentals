@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p06StrignsAndObjects\bin\Debug\p06StrignsAndObjects.exe.config
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p06StrignsAndObjects\bin\Debug\p06StrignsAndObjects.exe
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p06StrignsAndObjects\bin\Debug\p06StrignsAndObjects.pdb
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p06StrignsAndObjects\obj\Debug\p06StrignsAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p06StrignsAndObjects\obj\Debug\p06StrignsAndObjects.exe
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p06StrignsAndObjects\obj\Debug\p06StrignsAndObjects.pdb

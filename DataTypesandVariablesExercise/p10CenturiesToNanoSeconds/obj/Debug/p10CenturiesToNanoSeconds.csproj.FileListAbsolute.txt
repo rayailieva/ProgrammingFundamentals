@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p10CenturiesToNanoSeconds\bin\Debug\p10CenturiesToNanoSeconds.exe.config
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p10CenturiesToNanoSeconds\bin\Debug\p10CenturiesToNanoSeconds.exe
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p10CenturiesToNanoSeconds\bin\Debug\p10CenturiesToNanoSeconds.pdb
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p10CenturiesToNanoSeconds\obj\Debug\p10CenturiesToNanoSeconds.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p10CenturiesToNanoSeconds\obj\Debug\p10CenturiesToNanoSeconds.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p10CenturiesToNanoSeconds\obj\Debug\p10CenturiesToNanoSeconds.exe
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p10CenturiesToNanoSeconds\obj\Debug\p10CenturiesToNanoSeconds.pdb

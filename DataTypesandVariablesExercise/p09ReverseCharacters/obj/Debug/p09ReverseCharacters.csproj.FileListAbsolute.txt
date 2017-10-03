@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p09ReverseCharacters\bin\Debug\p09ReverseCharacters.exe.config
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p09ReverseCharacters\bin\Debug\p09ReverseCharacters.exe
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p09ReverseCharacters\bin\Debug\p09ReverseCharacters.pdb
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p09ReverseCharacters\obj\Debug\p09ReverseCharacters.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p09ReverseCharacters\obj\Debug\p09ReverseCharacters.exe
+C:\Users\raya\source\repos\DataTypesandVariablesExercise\p09ReverseCharacters\obj\Debug\p09ReverseCharacters.pdb
