@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p10ConvertSpeedUnits\bin\Debug\p10ConvertSpeedUnits.exe.config
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p10ConvertSpeedUnits\bin\Debug\p10ConvertSpeedUnits.exe
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p10ConvertSpeedUnits\bin\Debug\p10ConvertSpeedUnits.pdb
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p10ConvertSpeedUnits\obj\Debug\p11ConvertSpeedUnits.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p10ConvertSpeedUnits\obj\Debug\p10ConvertSpeedUnits.exe
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p10ConvertSpeedUnits\obj\Debug\p10ConvertSpeedUnits.pdb

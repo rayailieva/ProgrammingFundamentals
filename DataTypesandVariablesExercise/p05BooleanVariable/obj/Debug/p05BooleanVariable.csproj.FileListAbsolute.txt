@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p05BooleanVariable\bin\Debug\p05BooleanVariable.exe.config
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p05BooleanVariable\bin\Debug\p05BooleanVariable.exe
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p05BooleanVariable\bin\Debug\p05BooleanVariable.pdb
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p05BooleanVariable\obj\Debug\p05BooleanVariable.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p05BooleanVariable\obj\Debug\p05BooleanVariable.exe
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p05BooleanVariable\obj\Debug\p05BooleanVariable.pdb

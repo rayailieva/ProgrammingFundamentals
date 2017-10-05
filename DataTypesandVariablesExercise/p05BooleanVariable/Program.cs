@@ -12,8 +12,16 @@ namespace p05BooleanVariable
         {
             string text = Console.ReadLine();
 
+            bool boolean = Convert.ToBoolean(text);
 
-
+            if (boolean == true)
+            {
+                Console.WriteLine("Yes");
+            }
+            else
+            {
+                Console.WriteLine("No");
+            }
         }
     }
 }
