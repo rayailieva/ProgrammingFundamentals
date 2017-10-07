@@ -8,9 +8,9 @@ namespace p03EnglishNameOfTheLastDigit
 {
     class Program
     {
-        static void EnglishName(int num)
+        static void EnglishName(long num)
         {
-            int lastDigit = num % 10;
+            long lastDigit = Math.Abs(num % 10);
 
            if(lastDigit == 1)
             {
@@ -56,7 +56,7 @@ namespace p03EnglishNameOfTheLastDigit
 
         static void Main(string[] args)
         {
-            int num = int.Parse(Console.ReadLine());
+            long num = long.Parse(Console.ReadLine());
             EnglishName(num);
         }
     }
