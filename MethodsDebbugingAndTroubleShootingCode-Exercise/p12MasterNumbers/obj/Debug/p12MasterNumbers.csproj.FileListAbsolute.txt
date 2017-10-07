@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p12MasterNumbers\bin\Debug\p12MasterNumbers.exe.config
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p12MasterNumbers\bin\Debug\p12MasterNumbers.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p12MasterNumbers\bin\Debug\p12MasterNumbers.pdb
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p12MasterNumbers\obj\Debug\p12MasterNumbers.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p12MasterNumbers\obj\Debug\p12MasterNumbers.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p12MasterNumbers\obj\Debug\p12MasterNumbers.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p12MasterNumbers\obj\Debug\p12MasterNumbers.pdb

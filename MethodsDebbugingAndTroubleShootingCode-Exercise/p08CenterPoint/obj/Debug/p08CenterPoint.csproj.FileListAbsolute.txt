@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p08CenterPoint\bin\Debug\p08CenterPoint.exe.config
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p08CenterPoint\bin\Debug\p08CenterPoint.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p08CenterPoint\bin\Debug\p08CenterPoint.pdb
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p08CenterPoint\obj\Debug\p08CenterPoint.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p08CenterPoint\obj\Debug\p08CenterPoint.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p08CenterPoint\obj\Debug\p08CenterPoint.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p08CenterPoint\obj\Debug\p08CenterPoint.pdb

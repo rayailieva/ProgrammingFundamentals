@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p11GeometryCalculator\bin\Debug\p11GeometryCalculator.exe.config
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p11GeometryCalculator\bin\Debug\p11GeometryCalculator.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p11GeometryCalculator\bin\Debug\p11GeometryCalculator.pdb
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p11GeometryCalculator\obj\Debug\p11GeometryCalculator.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p11GeometryCalculator\obj\Debug\p11GeometryCalculator.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p11GeometryCalculator\obj\Debug\p11GeometryCalculator.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p11GeometryCalculator\obj\Debug\p11GeometryCalculator.pdb

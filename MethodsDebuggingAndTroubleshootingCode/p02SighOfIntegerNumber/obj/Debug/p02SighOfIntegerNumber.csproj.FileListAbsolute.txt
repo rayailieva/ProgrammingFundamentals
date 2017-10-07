@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\MethodsDebuggingAndTroubleshootingCode\p02SighOfIntegerNumber\bin\Debug\p02SighOfIntegerNumber.exe.config
+C:\Users\raya\source\repos\MethodsDebuggingAndTroubleshootingCode\p02SighOfIntegerNumber\bin\Debug\p02SighOfIntegerNumber.exe
+C:\Users\raya\source\repos\MethodsDebuggingAndTroubleshootingCode\p02SighOfIntegerNumber\bin\Debug\p02SighOfIntegerNumber.pdb
+C:\Users\raya\source\repos\MethodsDebuggingAndTroubleshootingCode\p02SighOfIntegerNumber\obj\Debug\p02SighOfIntegerNumber.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\MethodsDebuggingAndTroubleshootingCode\p02SighOfIntegerNumber\obj\Debug\p02SighOfIntegerNumber.exe
+C:\Users\raya\source\repos\MethodsDebuggingAndTroubleshootingCode\p02SighOfIntegerNumber\obj\Debug\p02SighOfIntegerNumber.pdb

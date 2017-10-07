@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p02MaxMethod\bin\Debug\p02MaxMethod.exe.config
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p02MaxMethod\bin\Debug\p02MaxMethod.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p02MaxMethod\bin\Debug\p02MaxMethod.pdb
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p02MaxMethod\obj\Debug\p02MaxMethod.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p02MaxMethod\obj\Debug\p02MaxMethod.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p02MaxMethod\obj\Debug\p02MaxMethod.pdb

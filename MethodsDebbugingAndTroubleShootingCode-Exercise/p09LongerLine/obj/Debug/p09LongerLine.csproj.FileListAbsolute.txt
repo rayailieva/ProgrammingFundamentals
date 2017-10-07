@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p09LongerLine\bin\Debug\p09LongerLine.exe.config
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p09LongerLine\bin\Debug\p09LongerLine.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p09LongerLine\bin\Debug\p09LongerLine.pdb
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p09LongerLine\obj\Debug\p09LongerLine.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p09LongerLine\obj\Debug\p09LongerLine.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p09LongerLine\obj\Debug\p09LongerLine.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p09LongerLine\obj\Debug\p09LongerLine.pdb

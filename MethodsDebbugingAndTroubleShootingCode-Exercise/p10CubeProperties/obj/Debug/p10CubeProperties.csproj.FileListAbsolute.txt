@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p10CubeProperties\bin\Debug\p10CubeProperties.exe.config
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p10CubeProperties\bin\Debug\p10CubeProperties.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p10CubeProperties\bin\Debug\p10CubeProperties.pdb
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p10CubeProperties\obj\Debug\p10CubeProperties.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p10CubeProperties\obj\Debug\p10CubeProperties.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p10CubeProperties\obj\Debug\p10CubeProperties.pdb

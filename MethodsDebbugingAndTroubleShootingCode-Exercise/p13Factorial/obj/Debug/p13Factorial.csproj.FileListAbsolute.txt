@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p13Factorial\bin\Debug\p13Factorial.exe.config
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p13Factorial\bin\Debug\p13Factorial.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p13Factorial\bin\Debug\p13Factorial.pdb
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p13Factorial\obj\Debug\p13Factorial.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p13Factorial\obj\Debug\p13Factorial.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p13Factorial\obj\Debug\p13Factorial.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p13Factorial\obj\Debug\p13Factorial.pdb

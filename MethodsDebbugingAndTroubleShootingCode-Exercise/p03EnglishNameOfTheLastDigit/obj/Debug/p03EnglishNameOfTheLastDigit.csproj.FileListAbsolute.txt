@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p03EnglishNameOfTheLastDigit\bin\Debug\p03EnglishNameOfTheLastDigit.exe.config
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p03EnglishNameOfTheLastDigit\bin\Debug\p03EnglishNameOfTheLastDigit.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p03EnglishNameOfTheLastDigit\bin\Debug\p03EnglishNameOfTheLastDigit.pdb
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p03EnglishNameOfTheLastDigit\obj\Debug\p03EnglishNameOfTheLastDigit.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p03EnglishNameOfTheLastDigit\obj\Debug\p03EnglishNameOfTheLastDigit.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p03EnglishNameOfTheLastDigit\obj\Debug\p03EnglishNameOfTheLastDigit.pdb

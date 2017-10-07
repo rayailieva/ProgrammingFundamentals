@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p04NumbersInReversedOrder\bin\Debug\p04NumbersInReversedOrder.exe.config
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p04NumbersInReversedOrder\bin\Debug\p04NumbersInReversedOrder.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p04NumbersInReversedOrder\bin\Debug\p04NumbersInReversedOrder.pdb
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p04NumbersInReversedOrder\obj\Debug\p04NumbersInReversedOrder.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p04NumbersInReversedOrder\obj\Debug\p04NumbersInReversedOrder.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p04NumbersInReversedOrder\obj\Debug\p04NumbersInReversedOrder.pdb

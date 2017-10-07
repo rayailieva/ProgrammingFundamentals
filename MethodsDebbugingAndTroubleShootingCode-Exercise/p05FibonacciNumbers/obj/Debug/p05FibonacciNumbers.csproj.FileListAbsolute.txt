@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p05FibonacciNumbers\bin\Debug\p05FibonacciNumbers.exe.config
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p05FibonacciNumbers\bin\Debug\p05FibonacciNumbers.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p05FibonacciNumbers\bin\Debug\p05FibonacciNumbers.pdb
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p05FibonacciNumbers\obj\Debug\p05FibonacciNumbers.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p05FibonacciNumbers\obj\Debug\p05FibonacciNumbers.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p05FibonacciNumbers\obj\Debug\p05FibonacciNumbers.pdb

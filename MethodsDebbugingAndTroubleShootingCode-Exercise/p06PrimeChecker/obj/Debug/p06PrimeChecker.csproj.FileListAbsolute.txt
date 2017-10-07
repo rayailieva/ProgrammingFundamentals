@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p06PrimeChecker\bin\Debug\p06PrimeChecker.exe.config
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p06PrimeChecker\bin\Debug\p06PrimeChecker.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p06PrimeChecker\bin\Debug\p06PrimeChecker.pdb
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p06PrimeChecker\obj\Debug\p06PrimeChecker.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p06PrimeChecker\obj\Debug\p06PrimeChecker.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p06PrimeChecker\obj\Debug\p06PrimeChecker.pdb
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p06PrimeChecker\obj\Debug\p06PrimeChecker.csprojResolveAssemblyReference.cache

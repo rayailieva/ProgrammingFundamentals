@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p14FactorialTrailingZeroes\bin\Debug\p14FactorialTrailingZeroes.exe.config
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p14FactorialTrailingZeroes\bin\Debug\p14FactorialTrailingZeroes.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p14FactorialTrailingZeroes\bin\Debug\p14FactorialTrailingZeroes.pdb
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p14FactorialTrailingZeroes\obj\Debug\p14FactorialTrailingZeroes.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p14FactorialTrailingZeroes\obj\Debug\p14FactorialTrailingZeroes.exe
+C:\Users\raya\source\repos\MethodsDebbugingAndTroubleShootingCode-Exercise\p14FactorialTrailingZeroes\obj\Debug\p14FactorialTrailingZeroes.pdb

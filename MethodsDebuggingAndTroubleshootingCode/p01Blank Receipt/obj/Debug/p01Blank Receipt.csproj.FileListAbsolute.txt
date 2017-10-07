@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\MethodsDebuggingAndTroubleshootingCode\p01Blank Receipt\bin\Debug\p01Blank Receipt.exe.config
+C:\Users\raya\source\repos\MethodsDebuggingAndTroubleshootingCode\p01Blank Receipt\bin\Debug\p01Blank Receipt.exe
+C:\Users\raya\source\repos\MethodsDebuggingAndTroubleshootingCode\p01Blank Receipt\bin\Debug\p01Blank Receipt.pdb
+C:\Users\raya\source\repos\MethodsDebuggingAndTroubleshootingCode\p01Blank Receipt\obj\Debug\p01Blank Receipt.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\MethodsDebuggingAndTroubleshootingCode\p01Blank Receipt\obj\Debug\p01Blank Receipt.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\MethodsDebuggingAndTroubleshootingCode\p01Blank Receipt\obj\Debug\p01Blank Receipt.exe
+C:\Users\raya\source\repos\MethodsDebuggingAndTroubleshootingCode\p01Blank Receipt\obj\Debug\p01Blank Receipt.pdb
