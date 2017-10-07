@@ -42,12 +42,10 @@ namespace p07PrimesInGivenRange
             print(numbers);
         }
 
-        private static void print()
+        private static void print(List<int> numbers)
         {
-            String.Join(" ")
+            Console.WriteLine(String.Join(", ", numbers));
         }
-
-
 
         static void Main(string[] args)
         {
