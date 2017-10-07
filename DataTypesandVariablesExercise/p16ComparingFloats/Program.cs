@@ -10,8 +10,8 @@ namespace p16ComparingFloats
     {
         static void Main(string[] args)
         {
-            double firstNum = float.Parse(Console.ReadLine());
-            double secondNum = float.Parse(Console.ReadLine());
+            double firstNum = double.Parse(Console.ReadLine());
+            double secondNum = double.Parse(Console.ReadLine());
 
             double difference = 0.000001;
 

@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p19TheaThePhotographer\bin\Debug\p19TheaThePhotographer.exe.config
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p19TheaThePhotographer\bin\Debug\p19TheaThePhotographer.exe
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p19TheaThePhotographer\bin\Debug\p19TheaThePhotographer.pdb
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p19TheaThePhotographer\obj\Debug\p19TheaThePhotographer.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p19TheaThePhotographer\obj\Debug\p19TheaThePhotographer.exe
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p19TheaThePhotographer\obj\Debug\p19TheaThePhotographer.pdb

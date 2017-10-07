@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.exe.config
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.exe
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\IntegerToHexAndBinary\bin\Debug\IntegerToHexAndBinary.pdb
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\IntegerToHexAndBinary\obj\Debug\p14IntegerToHexAndBinary.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\IntegerToHexAndBinary\obj\Debug\IntegerToHexAndBinary.exe
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\IntegerToHexAndBinary\obj\Debug\IntegerToHexAndBinary.pdb

@@ -10,21 +10,22 @@ namespace p10ConvertSpeedUnits
     {
         static void Main(string[] args)
         {
-            int distance = int.Parse(Console.ReadLine());
-            int hours = int.Parse(Console.ReadLine());
-            int minutes = int.Parse(Console.ReadLine());
-            int seconds = int.Parse(Console.ReadLine());
+            float distance = int.Parse(Console.ReadLine());
+            float hours = int.Parse(Console.ReadLine());
+            float minutes = int.Parse(Console.ReadLine());
+            float seconds = int.Parse(Console.ReadLine());
 
-            decimal inMiles = distance / 1609;
-            long secondsSum = hours * 3600 + minutes * 60 + seconds;
+            float sumTimeInMinutes = (hours * 60) + minutes + (seconds / 60);
+            float sumInHours = sumTimeInMinutes / 60;
+            float sumInSeconds = sumTimeInMinutes * 60;
 
-            double milesPerSecond = (double)distance / secondsSum;
-            double kilometeresPerHour = ((double)distance / 1000) / ((double)secondsSum / 3600);
-            double milesPerHour = ((double)inMiles) / ((double)secondsSum / 3600);
+            float metersPerSecond = distance / sumInSeconds;
+            float kilometersPerHour = (distance / 1000) / sumInHours;
+            float milesPerHour = (distance / 1609) / sumInHours;
 
-            Console.WriteLine(milesPerSecond);
-            Console.WriteLine(kilometeresPerHour);
-            Console.WriteLine(milesPerHour);
+            Console.WriteLine("{0:0.#######}", metersPerSecond);
+            Console.WriteLine("{0:0.#######}", kilometersPerHour);
+            Console.WriteLine("{0:0.#######}", milesPerHour);
 
 
 

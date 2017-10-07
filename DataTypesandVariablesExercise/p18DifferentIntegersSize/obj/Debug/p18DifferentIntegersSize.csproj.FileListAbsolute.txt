@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p18DifferentIntegersSize\bin\Debug\p18DifferentIntegersSize.exe.config
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p18DifferentIntegersSize\bin\Debug\p18DifferentIntegersSize.exe
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p18DifferentIntegersSize\bin\Debug\p18DifferentIntegersSize.pdb
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p18DifferentIntegersSize\obj\Debug\p18DifferentIntegersSize.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p18DifferentIntegersSize\obj\Debug\p18DifferentIntegersSize.exe
+C:\Users\raya\source\repos\ProgrammingFundamentalsCsharp\DataTypesandVariablesExercise\p18DifferentIntegersSize\obj\Debug\p18DifferentIntegersSize.pdb
