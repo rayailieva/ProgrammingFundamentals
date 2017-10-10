@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\ProgrammingFundamentals-Arrays\p02ReverseAnArray\bin\Debug\p02ReverseAnArray.exe.config
+C:\Users\raya\source\repos\ProgrammingFundamentals-Arrays\p02ReverseAnArray\bin\Debug\p02ReverseAnArray.exe
+C:\Users\raya\source\repos\ProgrammingFundamentals-Arrays\p02ReverseAnArray\bin\Debug\p02ReverseAnArray.pdb
+C:\Users\raya\source\repos\ProgrammingFundamentals-Arrays\p02ReverseAnArray\obj\Debug\p02ReverseAnArray.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\ProgrammingFundamentals-Arrays\p02ReverseAnArray\obj\Debug\p02ReverseAnArray.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\ProgrammingFundamentals-Arrays\p02ReverseAnArray\obj\Debug\p02ReverseAnArray.exe
+C:\Users\raya\source\repos\ProgrammingFundamentals-Arrays\p02ReverseAnArray\obj\Debug\p02ReverseAnArray.pdb
