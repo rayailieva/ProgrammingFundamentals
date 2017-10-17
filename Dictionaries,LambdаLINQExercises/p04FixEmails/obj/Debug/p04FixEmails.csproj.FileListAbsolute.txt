@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p04FixEmails\obj\Debug\p04FixEmails.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p04FixEmails\bin\Debug\p04FixEmails.exe.config
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p04FixEmails\bin\Debug\p04FixEmails.exe
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p04FixEmails\bin\Debug\p04FixEmails.pdb
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p04FixEmails\obj\Debug\p04FixEmails.exe
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p04FixEmails\obj\Debug\p04FixEmails.pdb

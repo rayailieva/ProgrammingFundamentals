@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p02PhonebookUpgrade\bin\Debug\p02PhonebookUpgrade.exe.config
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p02PhonebookUpgrade\bin\Debug\p02PhonebookUpgrade.exe
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p02PhonebookUpgrade\bin\Debug\p02PhonebookUpgrade.pdb
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p02PhonebookUpgrade\obj\Debug\p02PhonebookUpgrade.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p02PhonebookUpgrade\obj\Debug\p02PhonebookUpgrade.exe
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p02PhonebookUpgrade\obj\Debug\p02PhonebookUpgrade.pdb

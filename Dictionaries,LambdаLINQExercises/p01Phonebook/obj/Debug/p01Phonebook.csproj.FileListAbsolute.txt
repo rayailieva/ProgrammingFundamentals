@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p01Phonebook\bin\Debug\p01Phonebook.exe.config
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p01Phonebook\bin\Debug\p01Phonebook.exe
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p01Phonebook\bin\Debug\p01Phonebook.pdb
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p01Phonebook\obj\Debug\p01Phonebook.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p01Phonebook\obj\Debug\p01Phonebook.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p01Phonebook\obj\Debug\p01Phonebook.exe
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p01Phonebook\obj\Debug\p01Phonebook.pdb

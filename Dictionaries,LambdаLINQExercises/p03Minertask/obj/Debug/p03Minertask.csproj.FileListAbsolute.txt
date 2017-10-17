@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p03Minertask\bin\Debug\p03Minertask.exe.config
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p03Minertask\bin\Debug\p03Minertask.exe
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p03Minertask\bin\Debug\p03Minertask.pdb
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p03Minertask\obj\Debug\p03Minertask.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p03Minertask\obj\Debug\p03Minertask.exe
+C:\Users\raya\source\repos\Dictionaries,LambdаLINQExercises\p03Minertask\obj\Debug\p03Minertask.pdb
