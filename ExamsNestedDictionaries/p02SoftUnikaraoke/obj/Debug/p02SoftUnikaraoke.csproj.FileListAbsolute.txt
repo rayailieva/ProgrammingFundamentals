@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p02SoftUnikaraoke\bin\Debug\p02SoftUnikaraoke.exe.config
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p02SoftUnikaraoke\bin\Debug\p02SoftUnikaraoke.exe
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p02SoftUnikaraoke\bin\Debug\p02SoftUnikaraoke.pdb
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p02SoftUnikaraoke\obj\Debug\p02SoftUnikaraoke.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p02SoftUnikaraoke\obj\Debug\p02SoftUnikaraoke.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p02SoftUnikaraoke\obj\Debug\p02SoftUnikaraoke.exe
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p02SoftUnikaraoke\obj\Debug\p02SoftUnikaraoke.pdb

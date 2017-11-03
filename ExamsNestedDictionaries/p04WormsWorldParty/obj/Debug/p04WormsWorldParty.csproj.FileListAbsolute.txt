@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p04WormsWorldParty\bin\Debug\p04WormsWorldParty.exe.config
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p04WormsWorldParty\bin\Debug\p04WormsWorldParty.exe
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p04WormsWorldParty\bin\Debug\p04WormsWorldParty.pdb
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p04WormsWorldParty\obj\Debug\p04WormsWorldParty.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p04WormsWorldParty\obj\Debug\p04WormsWorldParty.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p04WormsWorldParty\obj\Debug\p04WormsWorldParty.exe
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p04WormsWorldParty\obj\Debug\p04WormsWorldParty.pdb

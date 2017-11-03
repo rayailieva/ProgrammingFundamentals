@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p03EnduranceRally\bin\Debug\p03EnduranceRally.exe.config
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p03EnduranceRally\bin\Debug\p03EnduranceRally.exe
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p03EnduranceRally\bin\Debug\p03EnduranceRally.pdb
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p03EnduranceRally\obj\Debug\p03EnduranceRally.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p03EnduranceRally\obj\Debug\p03EnduranceRally.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p03EnduranceRally\obj\Debug\p03EnduranceRally.exe
+C:\Users\raya\source\repos\ExamsNestedDictionaries\p03EnduranceRally\obj\Debug\p03EnduranceRally.pdb
