@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\PokemonExamLastTake\p02PokemonDontGo\bin\Debug\p02PokemonDontGo.exe.config
+C:\Users\raya\source\repos\PokemonExamLastTake\p02PokemonDontGo\bin\Debug\p02PokemonDontGo.exe
+C:\Users\raya\source\repos\PokemonExamLastTake\p02PokemonDontGo\bin\Debug\p02PokemonDontGo.pdb
+C:\Users\raya\source\repos\PokemonExamLastTake\p02PokemonDontGo\obj\Debug\p02PokemonDontGo.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\PokemonExamLastTake\p02PokemonDontGo\obj\Debug\p02PokemonDontGo.exe
+C:\Users\raya\source\repos\PokemonExamLastTake\p02PokemonDontGo\obj\Debug\p02PokemonDontGo.pdb

@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\PokemonExamLastTake\p04PokemonEvolution\bin\Debug\p04PokemonEvolution.exe.config
+C:\Users\raya\source\repos\PokemonExamLastTake\p04PokemonEvolution\bin\Debug\p04PokemonEvolution.exe
+C:\Users\raya\source\repos\PokemonExamLastTake\p04PokemonEvolution\bin\Debug\p04PokemonEvolution.pdb
+C:\Users\raya\source\repos\PokemonExamLastTake\p04PokemonEvolution\obj\Debug\p04PokemonEvolution.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\PokemonExamLastTake\p04PokemonEvolution\obj\Debug\p04PokemonEvolution.exe
+C:\Users\raya\source\repos\PokemonExamLastTake\p04PokemonEvolution\obj\Debug\p04PokemonEvolution.pdb

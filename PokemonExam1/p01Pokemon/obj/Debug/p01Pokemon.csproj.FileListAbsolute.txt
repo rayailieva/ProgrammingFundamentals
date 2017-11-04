@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\PokemonExamLastTake\p01Pokemon\bin\Debug\p01Pokemon.exe.config
+C:\Users\raya\source\repos\PokemonExamLastTake\p01Pokemon\bin\Debug\p01Pokemon.exe
+C:\Users\raya\source\repos\PokemonExamLastTake\p01Pokemon\bin\Debug\p01Pokemon.pdb
+C:\Users\raya\source\repos\PokemonExamLastTake\p01Pokemon\obj\Debug\p01Pokemon.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\PokemonExamLastTake\p01Pokemon\obj\Debug\p01Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\PokemonExamLastTake\p01Pokemon\obj\Debug\p01Pokemon.exe
+C:\Users\raya\source\repos\PokemonExamLastTake\p01Pokemon\obj\Debug\p01Pokemon.pdb
