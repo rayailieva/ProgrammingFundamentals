@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\ExamsLists\p02Icarus\bin\Debug\p02Icarus.exe.config
+C:\Users\raya\source\repos\ExamsLists\p02Icarus\bin\Debug\p02Icarus.exe
+C:\Users\raya\source\repos\ExamsLists\p02Icarus\bin\Debug\p02Icarus.pdb
+C:\Users\raya\source\repos\ExamsLists\p02Icarus\obj\Debug\p02Icarus.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\ExamsLists\p02Icarus\obj\Debug\p02Icarus.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\ExamsLists\p02Icarus\obj\Debug\p02Icarus.exe
+C:\Users\raya\source\repos\ExamsLists\p02Icarus\obj\Debug\p02Icarus.pdb

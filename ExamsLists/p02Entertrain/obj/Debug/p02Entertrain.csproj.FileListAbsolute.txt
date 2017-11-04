@@ -1,0 +1,6 @@
+C:\Users\raya\source\repos\ExamsLists\p02Entertrain\bin\Debug\p02Entertrain.exe.config
+C:\Users\raya\source\repos\ExamsLists\p02Entertrain\bin\Debug\p02Entertrain.exe
+C:\Users\raya\source\repos\ExamsLists\p02Entertrain\bin\Debug\p02Entertrain.pdb
+C:\Users\raya\source\repos\ExamsLists\p02Entertrain\obj\Debug\p02Entertrain.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\ExamsLists\p02Entertrain\obj\Debug\p02Entertrain.exe
+C:\Users\raya\source\repos\ExamsLists\p02Entertrain\obj\Debug\p02Entertrain.pdb

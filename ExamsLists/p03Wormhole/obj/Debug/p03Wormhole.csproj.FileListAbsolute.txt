@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\ExamsLists\p03Wormhole\bin\Debug\p03Wormhole.exe.config
+C:\Users\raya\source\repos\ExamsLists\p03Wormhole\bin\Debug\p03Wormhole.exe
+C:\Users\raya\source\repos\ExamsLists\p03Wormhole\bin\Debug\p03Wormhole.pdb
+C:\Users\raya\source\repos\ExamsLists\p03Wormhole\obj\Debug\p03Wormhole.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\ExamsLists\p03Wormhole\obj\Debug\p03Wormhole.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\ExamsLists\p03Wormhole\obj\Debug\p03Wormhole.exe
+C:\Users\raya\source\repos\ExamsLists\p03Wormhole\obj\Debug\p03Wormhole.pdb

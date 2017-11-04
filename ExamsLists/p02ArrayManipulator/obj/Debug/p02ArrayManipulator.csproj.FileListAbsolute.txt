@@ -1,0 +1,7 @@
+C:\Users\raya\source\repos\ExamsLists\p02ArrayManipulator\bin\Debug\p02ArrayManipulator.exe.config
+C:\Users\raya\source\repos\ExamsLists\p02ArrayManipulator\bin\Debug\p02ArrayManipulator.exe
+C:\Users\raya\source\repos\ExamsLists\p02ArrayManipulator\bin\Debug\p02ArrayManipulator.pdb
+C:\Users\raya\source\repos\ExamsLists\p02ArrayManipulator\obj\Debug\p02ArrayManipulator.csprojResolveAssemblyReference.cache
+C:\Users\raya\source\repos\ExamsLists\p02ArrayManipulator\obj\Debug\p02ArrayManipulator.csproj.CoreCompileInputs.cache
+C:\Users\raya\source\repos\ExamsLists\p02ArrayManipulator\obj\Debug\p02ArrayManipulator.exe
+C:\Users\raya\source\repos\ExamsLists\p02ArrayManipulator\obj\Debug\p02ArrayManipulator.pdb
